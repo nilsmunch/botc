@@ -1,6 +1,8 @@
 # Blood on the Clocktower PDFs
 
 https://bloodontheclocktower.com/
+http://bignose.whitetree.org/projects/botc/diy/
+
 
 This repo contains the PDFs for the "Blood on the Clocktower" social deduction game.
 The repo's goal is to provide a single collection of relevant docs hosted in an
